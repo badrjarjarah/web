@@ -1,0 +1,150 @@
+.ls1,.ls2
+{
+
+	font-size: 1.2em;
+	font-family: 'Petrona', serif;
+
+
+}
+
+.ms
+{
+
+font-size:  auto;
+
+}
+.vision
+{
+
+	padding-bottom: 5px;
+	
+
+}
+
+.address
+{
+
+
+color: white;
+
+font-family: 'Open Sans', sans-serif;
+
+}
+
+.nav
+{
+
+font-family: 'Open Sans', sans-serif;
+font-size: 1.19em;
+
+}
+.info
+{
+
+font-style: italic;
+
+font-family: Aerial;
+
+}
+
+#hR
+{
+
+color: white;
+font-family: 'Open Sans', sans-serif;
+color: #F0F8FF;
+text-align: center;
+font-size: 2.5em;
+
+
+}
+.aliceBlue
+{
+
+	background-color:#F0F8FF; 
+}
+
+body
+{
+background-color: #1496B5;
+	
+}
+
+#pr
+{
+
+text-align: Center;
+color: white;
+
+}
+
+
+.labHeader
+{
+
+color: white;
+font-size: 10px;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.link>a:link
+{
+
+font-size: 1.3em;
+color: #F0F8FF;
+font-style: italic;
+font-family: 'Open Sans', sans-serif;
+
+}
+
+.link>a:visited
+{
+
+
+    text-decoration: none;
+    color: #F0F8FF;
+}
+
+
+.p_people
+{
+
+font-size: 1.2em;
+font-style: italic;
+font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.hR
+{
+
+text-align: center;
+
+}
+
+
+
+@media screen and (min-width: 950px)  {
+    .vision {
+        padding-bottom: 11.5em;
+    }
+}
+
+
+footer
+{
+
+color: white;
+
+font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+
